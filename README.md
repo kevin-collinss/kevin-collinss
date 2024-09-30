@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student working towards a portfolio of work that showcases my passions.<br>I currently work at Intel on a Cloud Native Development team.<br>I'm always eager to talk anything AI, ML or Cloud related. <br>I also love to focus time learning about DevOps, a new passion of mine.
+I'm a Computer Science student working towards a portfolio of work that showcases my passions.I'm always eager to talk anything Big Data or ML related. <br>I also love to focus time learning about DevOps, a new passion of mine.
 
 
 ## 🌐 Socials:
